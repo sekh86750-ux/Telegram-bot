@@ -1,0 +1,17 @@
+{
+  "name": "ariyan-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AriYan-Bot - Telegram all-in-one starter bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}
